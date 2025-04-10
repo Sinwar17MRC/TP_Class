@@ -1,0 +1,7 @@
+age
+marital_status
+income
+loan_amount
+loan_to_income
+good_price_to_loan
+savings_rate
